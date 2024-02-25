@@ -1,5 +1,12 @@
 package cuentas;
 
+/**
+ * 
+ * @author Bea
+ * @version 1.1
+ * Clase que representa a una cuenta
+ */
+ 
 public class CCuenta {
 
     /**
